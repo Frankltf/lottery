@@ -19,6 +19,7 @@
 		84D5341B1FD68C4800E049C2 /* XMGMyViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 84D5341A1FD68C4800E049C2 /* XMGMyViewController.m */; };
 		84D534221FD68CFE00E049C2 /* XMGTabBarViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 84D534211FD68CFE00E049C2 /* XMGTabBarViewController.m */; };
 		84D534251FD68D1A00E049C2 /* XMGNavigationViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 84D534241FD68D1A00E049C2 /* XMGNavigationViewController.m */; };
+		84D534291FD696A600E049C2 /* XMGConst.m in Sources */ = {isa = PBXBuildFile; fileRef = 84D534281FD696A600E049C2 /* XMGConst.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -45,6 +46,8 @@
 		84D534231FD68D1A00E049C2 /* XMGNavigationViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XMGNavigationViewController.h; sourceTree = "<group>"; };
 		84D534241FD68D1A00E049C2 /* XMGNavigationViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XMGNavigationViewController.m; sourceTree = "<group>"; };
 		84D534261FD6901F00E049C2 /* PrefixHeader.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PrefixHeader.pch; sourceTree = "<group>"; };
+		84D534271FD696A600E049C2 /* XMGConst.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XMGConst.h; sourceTree = "<group>"; };
+		84D534281FD696A600E049C2 /* XMGConst.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XMGConst.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -314,6 +317,8 @@
 				84D534051FD6892000E049C2 /* AppDelegate.h */,
 				84D534061FD6892000E049C2 /* AppDelegate.m */,
 				84D534261FD6901F00E049C2 /* PrefixHeader.pch */,
+				84D534271FD696A600E049C2 /* XMGConst.h */,
+				84D534281FD696A600E049C2 /* XMGConst.m */,
 			);
 			path = Other;
 			sourceTree = "<group>";
@@ -470,6 +475,7 @@
 				84D534251FD68D1A00E049C2 /* XMGNavigationViewController.m in Sources */,
 				84D534221FD68CFE00E049C2 /* XMGTabBarViewController.m in Sources */,
 				84D5340C1FD6892000E049C2 /* AppDelegate.m in Sources */,
+				84D534291FD696A600E049C2 /* XMGConst.m in Sources */,
 				84D534121FD68B8100E049C2 /* XMGArenaViewController.m in Sources */,
 				84D533D51FD688AF00E049C2 /* main.m in Sources */,
 				84D5340F1FD68B3D00E049C2 /* XMGHallTableViewController.m in Sources */,
